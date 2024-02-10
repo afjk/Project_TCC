@@ -23,7 +23,7 @@ namespace Unity.TinyCharacterController.Utility
             _animator.enabled = false;
 
             // Update timing
-            _timing = _animator.updateMode == AnimatorUpdateMode.Fixed
+            _timing = _animator.updateMode == AnimatorUpdateMode.AnimatePhysics
                 ? UpdateTiming.FixedUpdate
                 : UpdateTiming.Update;
 

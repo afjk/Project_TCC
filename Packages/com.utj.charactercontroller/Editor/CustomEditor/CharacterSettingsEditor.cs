@@ -24,7 +24,7 @@ namespace TinyCharacterControllerEditor
 
         public override GUIContent GetPreviewTitle() => _title;
 
-        public override VisualElement CreatePreview(VisualElement previewWindow)
+        public VisualElement CreatePreview(VisualElement previewWindow)
         {
             OnUpdate();
             
