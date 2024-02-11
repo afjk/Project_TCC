@@ -5,6 +5,14 @@ This repository contains all packages and examples for TCC projects.
 
 Project_TCC is the last Unity-Chan! project. Enjoy yourselves!
 
+## Fork Information
+This fork introduces the following changes to the original Project_TCC:
+
+- Downgraded to Unity version 2022.3.18f1: The original version, 2023.2.0f1, is not compatible with Vision OS.
+- Added support for Vision OS: Integration of PolySpatial-related packages. Replaced materials using non-compatible Toon shaders with URP/Lit for Vision OS compatibility.
+
+These modifications ensure that Project_TCC can build for Vision OS.
+
 ## 2024/02/09: Information and disclaimer
 We appreciate your interest in Project_TCC.
 
