@@ -5,9 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/TCC/Scenes/03_Action/UC-03-03_Attack_and_Guard.unity
-    guid: 759a99affb6618c44abc86e95a157af5
   - enabled: 1
     path: Assets/TCC/ScenesForVisionOS/UC-03-03_Attack_and_Guard.unity
     guid: 6fbe56bcb03aa460c964b219620b593a
