@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/TCC/ScenesForVisionOS/UC-03-03_Attack_and_Guard.unity
     guid: 6fbe56bcb03aa460c964b219620b593a
+  - enabled: 1
+    path: Assets/TCC/ScenesForVisionOS/UC-05-03_ScoreSystem(RigidBodyBrain).unity
+    guid: cced653f101014314bd01984daa3d755
   m_configObjects:
     UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: 90500bcb716664e119a5e463571b29b9, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 6ba09a1e263bc4b338364dbb56d3b6bd, type: 2}
