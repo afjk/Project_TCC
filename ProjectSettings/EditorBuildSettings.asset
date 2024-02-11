@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/TCC/Scenes/03_Action/UC-03-03_Attack_and_Guard.unity
+    guid: 759a99affb6618c44abc86e95a157af5
+  - enabled: 1
+    path: Assets/TCC/ScenesForVisionOS/UC-03-03_Attack_and_Guard.unity
+    guid: 6fbe56bcb03aa460c964b219620b593a
   m_configObjects:
     UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: 90500bcb716664e119a5e463571b29b9, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 6ba09a1e263bc4b338364dbb56d3b6bd, type: 2}
