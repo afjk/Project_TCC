@@ -6,6 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes: []
   m_configObjects:
+    UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: 90500bcb716664e119a5e463571b29b9, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 6ba09a1e263bc4b338364dbb56d3b6bd, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 03c58a100ca87ff4e90370551419f8e0, type: 2}
-  m_UseUCBPForAssetBundles: 0
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: be1e61af1a17046d3aec356c7a962e9a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d3b878630d6fa41a2ba5e0a813eca049, type: 2}
